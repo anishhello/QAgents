@@ -15,7 +15,10 @@ Finetuned the diference in rates of updates of the target and policy networks.Fi
 
 The average score in the training process converges to nearly 30 in the setup provided.
 
-The highest scores have crossed 70+ scores at timed during training.
+The highest scores have crossed 60+ scores at timed during training.
+
+![Screenshot 2024-06-15 182327](https://github.com/anishhello/QAgents/assets/133523672/28fee4e2-ec25-4392-a007-3cab733e73c2)
+
 
 ## Further improvements
 
