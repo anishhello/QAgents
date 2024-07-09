@@ -1,0 +1,5 @@
+# SnakeAgent
+
+
+
+# Trading Agent
